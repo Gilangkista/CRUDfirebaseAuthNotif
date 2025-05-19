@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741969357355",
+    "project_id": "crudauthnotif",
+    "storage_bucket": "crudauthnotif.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741969357355:android:9b0d4693b70154f67d186e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud_auth_notif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1VrITw3D8F33-4tOAObDy249TXirnUQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
