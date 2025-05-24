@@ -1,16 +1,13 @@
-# firebase_crud_auth_notif
+---
+## Screenshots Aplikasi
 
-A new Flutter project.
 
-## Getting Started
+![Halaman Login](https://github.com/Gilangkista/CRUDfirebaseAuthNotif/blob/main/images/Screenshot%202025-05-20%20155701.png?raw=true)
 
-This project is a starting point for a Flutter application.
+![Halaman Registrasi](https://github.com/Gilangkista/CRUDfirebaseAuthNotif/blob/main/images/Screenshot%202025-05-20%20155709.png?raw=true)
 
-A few resources to get you started if this is your first Flutter project:
+![Tampilan Daftar Barang](https://github.com/Gilangkista/CRUDfirebaseAuthNotif/blob/main/images/Screenshot%202025-05-24%20183028.png?raw=true)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Tampilan Tambah Barang](https://github.com/Gilangkista/CRUDfirebaseAuthNotif/blob/main/images/Screenshot%202025-05-24%20183442.png?raw=true)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Logo Aplikasi](https://github.com/Gilangkista/CRUDfirebaseAuthNotif/blob/main/images/image.png?raw=true)
